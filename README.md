@@ -2,12 +2,12 @@
 
 
 
-CakePHP dockerized is a basic cake php blog skeleton using containers.
+CakePHP dockerized is a basic cakePHP blog skeleton using containers.
 
 
 ## Description
 
-SWitch between branches and find the cakePHP version desired.
+Switch between branches and find the cakePHP version desired (currently only V2.X available).
 
 
 ## Get Support!
